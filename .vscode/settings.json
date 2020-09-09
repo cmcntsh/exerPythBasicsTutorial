@@ -1,4 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "C:\\Users\\lwolf\\anaconda64\\python.exe",
+=======
+>>>>>>> cd76f4e5b5414c254bb24bd5b752d2a812ed63ef
     "python.dataScience.jupyterServerURI": "local"
 }
